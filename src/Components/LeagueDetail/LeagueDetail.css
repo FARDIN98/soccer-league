@@ -1,0 +1,29 @@
+.imageSize{
+    height: 10vw;
+}
+.picture{
+    background-image: url('../../images/details-picture.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    height: 10vw;
+    width: 100%;
+    object-fit: contain;
+}
+.cardDetails{
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 4px 4px grey;
+    background-color: rgb(35, 35, 194);
+    color: white;
+}
+.color{
+    background-color: rgb(53, 20, 129);
+}
+.font{
+    color: white;
+}
+.icon{
+    height: 60px;
+}

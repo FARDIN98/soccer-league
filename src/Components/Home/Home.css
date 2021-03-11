@@ -1,0 +1,16 @@
+
+.startingStyle{
+    text-align: center;
+    color: white;
+    background-image: url('../../images/stadium.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30vh;
+    margin-bottom: 0px;
+    
+}
+.style{
+    background-color: black;
+    color: black;
+    /* margin-top: -50px; */
+}
